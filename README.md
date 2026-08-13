@@ -12,7 +12,7 @@ transparent, auditable **risk-rating engine**, runs **fuzzy-matched sanctions
 screening**, and layers on **ongoing activity monitoring** — then visualises the
 whole risk picture.
 
-![Risk rating distribution](risk_distribution.png)
+![Risk rating distribution](benford_analysis.png)
 
 ## 🧭 Business context
 
